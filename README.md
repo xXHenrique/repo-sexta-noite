@@ -1,7 +1,7 @@
-# H1 - Título do Repositório
-## H2 - Subtítulo do Repositório
+# Título do Repositório
+## Aprendendo a trabalhar com o GitHub
 
-# repo-sexta-noite
+
 Este repositório é um teste de aprendizado no GitHub.
 * Lista
   + Item de uma lista
